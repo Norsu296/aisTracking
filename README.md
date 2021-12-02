@@ -13,6 +13,7 @@ The application downloads ship position data from the api https://www.barentswat
 * Spring boot
 * Hibernate
 * PostgreSQL
+* Docker
 
 ## Frontend
 * React
