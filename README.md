@@ -22,3 +22,9 @@ The application downloads ship position data from the api https://www.barentswat
 * Icons website https://icons8.com/
 
 ## Screenshots
+Start page
+![Home](./screenshots/1.png)
+View after click on the ship
+![click](./screenshots/2.png)
+Another view
+![another](./screenshots/3.png)
